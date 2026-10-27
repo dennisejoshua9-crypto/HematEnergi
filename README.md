@@ -1,43 +1,39 @@
 
-# HematEnergi 🌿
+# 🌿 Eco Energy — Hemat Energi, Mulai dari Rumah
 
-Website edukasi masyarakat tentang pentingnya menghemat energi
-dan menerapkan gaya hidup yang lebih ramah lingkungan.
+Eco Energy adalah website edukasi yang mengajak masyarakat memahami pentingnya penghematan energi, menerapkan kebiasaan hemat listrik di rumah, dan mengenal energi terbarukan. Website ini dibuat sebagai proyek pembelajaran pemrograman web menggunakan HTML5 dan CSS3.
 
-## 📌 Tentang Proyek
+## 🎯 Tujuan Website
 
-HematEnergi merupakan proyek UTS mata kuliah Pemrograman Web.
-Website ini dibuat untuk memberikan informasi mengenai
-penggunaan energi secara bijak, penghematan listrik,
-dan pentingnya menjaga lingkungan.
+- Memberikan informasi dasar tentang hemat energi dan efisiensi listrik.
+- Membagikan panduan sederhana yang dapat diterapkan di rumah.
+- Mengenalkan energi terbarukan dan kaitannya dengan pembangunan berkelanjutan.
+- Meningkatkan kepedulian terhadap penggunaan energi yang bertanggung jawab.
 
-## 🎯 Tujuan
+## ✨ Fitur dan Halaman
 
-- Meningkatkan kesadaran tentang pentingnya hemat energi.
-- Memberikan panduan penghematan energi di rumah.
-- Mengenalkan energi terbarukan.
-- Mendukung pemahaman tentang SDG 7 dan SDG 13.
+| Halaman | Isi |
+| --- | --- |
+| **Beranda** (`index.html`) | Pengenalan Eco Energy dan navigasi website. |
+| **Edukasi** (`edukasi.html`) | Pengertian hemat energi, efisiensi, dan SDG 7 serta SDG 13. |
+| **Panduan** (`panduan.html`) | Lima langkah praktis hemat energi dan checklist harian. |
+| **Artikel** (`artikel.html`) | Informasi energi surya, lampu LED, dan penggunaan energi di rumah. |
+| **Tentang** (`tentang.html`) | Profil proyek, tujuan website, anggota kelompok, dan sumber informasi. |
 
-## ✨ Fitur Website
+## 🧰 Teknologi yang Digunakan
 
-1. **Beranda** — pengenalan website dan kebiasaan hemat energi.
-2. **Edukasi** — informasi dasar mengenai energi dan SDGs.
-3. **Panduan** — lima langkah praktis menghemat energi.
-4. **Artikel** — artikel tentang efisiensi energi dan lingkungan.
-5. **Tentang** — tujuan proyek, identitas kelompok, dan referensi.
+- **HTML5** untuk struktur dan konten halaman.
+- **CSS3** untuk warna, layout, kartu, tombol, dan desain responsif.
+- **Google Fonts** untuk tipografi.
+- **Unsplash** untuk gambar eksternal.
+- **GitHub** untuk menyimpan dan mengelola kode sumber.
 
-## 🛠️ Teknologi
-
-- HTML5
-- CSS3
-- Responsive Web Design
-- CSS Animation dan Hover Effects
-
-Website dibuat tanpa framework CSS.
+> Catatan: Checklist pada halaman Panduan belum menyimpan progres setelah halaman dimuat ulang.
 
 ## 📁 Struktur Folder
 
-HematEnergiBaru/
+```text
+HematEnergi/
 ├── index.html
 ├── edukasi.html
 ├── panduan.html
@@ -46,24 +42,49 @@ HematEnergiBaru/
 ├── README.md
 └── css/
     └── style.css
+```
 
-## 👥 Tim Pengembang
+## 🚀 Cara Menjalankan Website
 
-- I Gede Diptha Taurusya DananJaya — 2515091117
-- Dennise Joshua Marcellino — 2515091113
-- Kadek Ryal Satriawan Putra — 2515091133
-- A.A. Alit Pradnya Nata — 2515091118
+1. Unduh atau clone repository ini.
+2. Pastikan file HTML berada di folder utama.
+3. Pastikan `style.css` berada di folder `css`.
+4. Buka `index.html` melalui browser.
+5. Gunakan navigasi untuk membuka halaman lainnya.
 
-## 🌍 Referensi
+### Publikasi melalui GitHub Pages
 
-- United Nations SDG 7:
-  https://sdgs.un.org/goals/goal7
-- United Nations SDG 13:
-  https://sdgs.un.org/goals/goal13
-- International Energy Agency:
-  https://www.iea.org/topics/energy-efficiency
+1. Buka repository di GitHub.
+2. Masuk ke **Settings → Pages**.
+3. Pilih sumber publikasi sesuai konfigurasi repository.
+4. Jika menggunakan branch, pilih `main` dan folder `/ (root)`.
+5. Simpan pengaturan dan tunggu deployment selesai.
+6. Buka URL website yang diberikan GitHub Pages.
 
-## 📄 Lisensi
+## 👥 Anggota Kelompok
 
-Proyek ini dibuat untuk keperluan pembelajaran
-dan tugas akademik.
+| No. | Nama | NIM |
+| --- | --- | --- |
+| 1 | I Gede Diptha Taurusya DananJaya | 2515091117 |
+| 2 | Dennise Joshua Marcellino | 2515091113 |
+| 3 | Kadek Ryal Satriawan Putra | 2515091133 |
+| 4 | A.A. Alit Pradnya Nata | 2515091118 |
+
+## 🌍 Referensi Informasi
+
+- [United Nations — SDG 7](https://sdgs.un.org/goals/goal7)
+- [United Nations — SDG 13](https://sdgs.un.org/goals/goal13)
+- [U.S. Department of Energy — Energy Saver](https://www.energy.gov/energysaver)
+- [U.S. Department of Energy — LED Lighting](https://www.energy.gov/energysaver/led-lighting)
+- [U.S. Department of Energy — How Does Solar Work?](https://www.energy.gov/eere/solar/how-does-solar-work)
+
+## 📝 Catatan
+
+- Pastikan tautan navigasi mengarah ke file yang benar.
+- Gambar dan font eksternal memerlukan koneksi internet.
+- Periksa isi artikel dan referensi sebelum publikasi.
+- Sesuaikan informasi proyek dengan kebutuhan tugas.
+
+---
+
+**Eco Energy — gunakan energi sesuai kebutuhan, mulai dari rumah. 🌱**
